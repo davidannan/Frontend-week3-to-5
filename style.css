@@ -1,4 +1,19 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
+ body {
+      background-color: rgb(83, 161, 163);
+    }
+
+    header {
+      color: rgb(47, 54, 41);
+      font: bold;
+      font-style: inherit;
+    }
+
+    p {
+      font-style: italic;
+      color: rgb(86, 74, 97);
+    }
+
+    label {
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: medium;
+    }
